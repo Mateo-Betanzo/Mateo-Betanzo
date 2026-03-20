@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👨‍💻 ¡Hola! Soy Mateo
 
-<!--
-**Mateo-Betanzo/Mateo-Betanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Programación;Aprendiendo+todos+los+días;Amante+de+la+tecnología" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+🎓 Estudiante de programación  
+💡 Apasionado por la tecnología  
+🛠️ Creando proyectos para aprender y mejorar  
+
+---
+
+## ⚡ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Actualmente aprendiendo
+
+- Programación orientada a objetos  
+- Bases de datos  
+- Desarrollo web  
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: [tu email]
+- 💼 LinkedIn: [tu linkedin]
