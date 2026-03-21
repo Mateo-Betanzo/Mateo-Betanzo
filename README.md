@@ -6,9 +6,9 @@
 
 ## About me
 
-Hola, soy Mateo 
-Actualmente estoy estudiando programación y tengo un gran interés por la tecnología.  
-Disfruto aprender nuevas herramientas y lenguajes, y estoy en constante formación para crecer como desarrollador. 
+- Estudiante de programación
+- Apasionado por la tecnología
+- Creando proyectos para aprender y mejorar
 
 
 ## Tech Stack
@@ -26,6 +26,5 @@ Disfruto aprender nuevas herramientas y lenguajes, y estoy en constante formaci�
 
 ## Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateo@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matebeta2912@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
