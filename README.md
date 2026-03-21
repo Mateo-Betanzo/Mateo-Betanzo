@@ -1,36 +1,31 @@
-# ¡Hola! Soy Mateo
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=0:0B36F4,100:051970&text=Mateo%20Betanzo&fontColor=FFF" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudiante+de+Programación;Aprendiendo+todos+los+días;Amante+de+la+tecnología" />
-</p>
 
----
 
-## 🚀 Sobre mí
+## About me
 
-🎓 Estudiante de programación  
-💡 Apasionado por la tecnología  
-🛠️ Creando proyectos para aprender y mejorar  
+Hola, soy Mateo 
+Actualmente estoy estudiando programación y tengo un gran interés por la tecnología.  
+Disfruto aprender nuevas herramientas y lenguajes, y estoy en constante formación para crecer como desarrollador. 
 
----
 
-## ⚡ Tecnologías
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## 🧠 Actualmente aprendiendo
 
-- Programación orientada a objetos  
-- Bases de datos  
-- Desarrollo web  
+## Contact
 
----
-
-## 📫 Contacto
-
-- 📧 Email: [tu email]
-- 💼 LinkedIn: [tu linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateo@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
