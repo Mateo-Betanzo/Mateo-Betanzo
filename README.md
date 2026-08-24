@@ -1,1 +1,1 @@
-![Perfil](./neofetch-profile.svg)
+![Perfil](./github-profile.svg)
