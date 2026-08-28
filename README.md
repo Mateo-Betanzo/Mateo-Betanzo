@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./name-assci.png" width="800" />
+  <img src="./name-assci.webp" width="800" />
 </div>
 
 <div align="center">
