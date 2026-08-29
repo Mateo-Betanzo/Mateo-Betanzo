@@ -8,7 +8,7 @@ Full Stack Developer - Argentina 🇦🇷 <br>
 
 Focused on Full Stack software & app development
 
-[Email](mailto:matebeta2912@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateo-betanzo) · [Portfolio]()
+[Email](mailto:matebeta2912@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateo-betanzo) · [Portfolio](https://mateo-betanzo.github.io/Portfolio/)
 
 </div>
 
